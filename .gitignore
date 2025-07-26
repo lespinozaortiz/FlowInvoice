@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+obj/
+bin/
+*.db
+
+# Node.js / Vite
+frontend-flowinvoice/node_modules/
+frontend-flowinvoice/dist/
+frontend-flowinvoice/.env
+frontend-flowinvoice/.env.*
+frontend-flowinvoice/npm-debug.log*
+frontend-flowinvoice/yarn-debug.log*
+frontend-flowinvoice/yarn-error.log*
+
+# IDE specific
+.idea/
+*.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,35 @@
+# --- .NET ---
+/bin/
+/obj/
+/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de base de datos y backups temporales
+*.db
+*.bak
+*.log
+*.shm
+*.wal
+
+# Archivos generados por el IDE
+*.cache
+*.vspscc
+*.vssscc
+*.pdb
+
+# Archivos de configuración del entorno
+launchSettings.json
+
+# Archivos temporales de diseño de documentos
+*.docstates
+*.vsidx
+*.VC.db
+
+# Archivos ocultos de usuario
+*.db-shm
+*.db-wal
+*.vscode/*
+!.vscode/settings.json

@@ -1,0 +1,6 @@
+@FlowInvoice_HostAddress = http://localhost:5062
+
+GET {{FlowInvoice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
