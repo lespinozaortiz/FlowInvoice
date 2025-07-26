@@ -33,7 +33,6 @@ Permite importar, consultar, actualizar y generar reportes sobre facturas, facil
 | **ORM** | Entity Framework Core                                                |
 | **Documentación API**| Swagger                                                                          |
 | **Infraestructura** | Docker, Docker Compose                                                        |
-| **EDA y Feature Engineering** | Pandas, Numpy, Sweetviz, YData Profiling                            |
 | **Control de versiones** | Git                                                         |
 ---
 ## 📄 Arquitectura y patrones de diseño.
